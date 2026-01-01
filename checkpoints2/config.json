@@ -1,0 +1,67 @@
+{
+  "project_root": "/Users/prade/U-NET-ISEF/cloud_bundle",
+  "data_dir": "/Users/prade/U-NET-ISEF/cloud_bundle/data",
+  "data_root": "/Users/prade/U-NET-ISEF/cloud_bundle",
+  "checkpoint_dir": "/Users/prade/U-NET-ISEF/cloud_bundle/checkpoints2",
+  "log_dir": "/Users/prade/U-NET-ISEF/cloud_bundle/logs",
+  "processed_dir": "/Users/prade/U-NET-ISEF/cloud_bundle/data/processed",
+  "device": "mps",
+  "pixdim": [
+    1.0,
+    1.0,
+    1.0
+  ],
+  "modality": "mri",
+  "dataset_preset": "custom",
+  "dataset": "custom",
+  "roi_size": [
+    96,
+    192,
+    192
+  ],
+  "batch_size": 2,
+  "learning_rate": 0.0002,
+  "weight_decay": 1e-05,
+  "num_workers": 4,
+  "pin_memory": false,
+  "accumulation_steps": 1,
+  "use_attention": false,
+  "grad_clip_norm": 1.0,
+  "unet_channels": [
+    32,
+    64,
+    128,
+    256,
+    512
+  ],
+  "unet_strides": [
+    2,
+    2,
+    2,
+    2
+  ],
+  "unet_num_res_units": 3,
+  "unet_dropout": 0.15,
+  "unet_norm": "instance",
+  "prefetch_factor": 2,
+  "persistent_workers": true,
+  "compile_model": false,
+  "use_tta": false,
+  "prob_threshold": 0.5,
+  "ct_window": [
+    -100,
+    700
+  ],
+  "cache_rate_train": 0.25,
+  "cache_rate_val": 1.0,
+  "scheduler_t0": 8,
+  "scheduler_tmult": 2,
+  "scheduler_eta_min": 1e-06,
+  "split_file": "/Users/prade/U-NET-ISEF/cloud_bundle/splits.json",
+  "imagecas_root": null,
+  "imagecas_version": "v2-latest",
+  "split_xlsx": null,
+  "use_official_split": false,
+  "split_id": 1,
+  "epochs": 100
+}

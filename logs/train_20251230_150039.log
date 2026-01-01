@@ -1,0 +1,53 @@
+2025-12-30 15:00:39 VascularSeg INFO Logging initialized. Log file: /Users/prade/U-NET-ISEF/cloud_bundle/logs/train_20251230_150039.log
+2025-12-30 15:00:39 VascularSeg INFO Starting vascular segmentation training pipeline
+2025-12-30 15:00:39 VascularSeg INFO Experiment: 20251230_150039
+2025-12-30 15:00:39 VascularSeg INFO Device: mps
+2025-12-30 15:00:39 VascularSeg INFO Dataset preset=custom dataset=custom
+2025-12-30 15:00:39 VascularSeg INFO PyTorch version: 2.8.0
+2025-12-30 15:00:39 VascularSeg INFO CUDA available: False
+2025-12-30 15:00:39 VascularSeg INFO MPS status - built: True, available: True
+2025-12-30 15:00:39 VascularSeg INFO Model compilation (torch.compile): False
+2025-12-30 15:00:39 VascularSeg INFO DataLoader workers: 4 (prefetch=2, persistent=True)
+2025-12-30 15:00:39 VascularSeg INFO 
+2025-12-30 15:00:39 VascularSeg INFO 1. dataset discovery
+2025-12-30 15:00:39 VascularSeg INFO Scanning dataset under /Users/prade/U-NET-ISEF/cloud_bundle
+2025-12-30 15:00:39 VascularSeg INFO Total samples found: 1000
+2025-12-30 15:00:39 VascularSeg INFO   id=1 image=/Users/prade/U-NET-ISEF/cloud_bundle/1-200/1.img.nii.gz label=/Users/prade/U-NET-ISEF/cloud_bundle/1-200/1.label.nii.gz
+2025-12-30 15:00:39 VascularSeg INFO   id=2 image=/Users/prade/U-NET-ISEF/cloud_bundle/1-200/2.img.nii.gz label=/Users/prade/U-NET-ISEF/cloud_bundle/1-200/2.label.nii.gz
+2025-12-30 15:00:39 VascularSeg INFO   id=3 image=/Users/prade/U-NET-ISEF/cloud_bundle/1-200/3.img.nii.gz label=/Users/prade/U-NET-ISEF/cloud_bundle/1-200/3.label.nii.gz
+2025-12-30 15:00:40 VascularSeg INFO Sanity sample id=1 -> image shape (512, 512, 275) (min -1024.0000 max 3071.0000), label shape (512, 512, 275) (min 0.0000 max 1.0000)
+2025-12-30 15:00:40 VascularSeg INFO 
+2025-12-30 15:00:40 VascularSeg INFO 2. dataset split
+2025-12-30 15:00:40 VascularSeg INFO Using existing split from /Users/prade/U-NET-ISEF/cloud_bundle/splits.json (train=700, val=50, test=250)
+2025-12-30 15:00:40 VascularSeg INFO 
+2025-12-30 15:00:40 VascularSeg INFO 3. building data loaders
+2025-12-30 15:00:59 VascularSeg INFO Creating training dataset (cache_rate=0.25)...
+2025-12-30 15:03:20 VascularSeg INFO Training dataset ready in 141.7s
+2025-12-30 15:03:20 VascularSeg INFO Creating validation dataset (cache_rate=1.00)...
+2025-12-30 15:03:59 VascularSeg INFO Validation dataset ready in 39.0s
+2025-12-30 15:03:59 VascularSeg INFO   Train batches: 350
+2025-12-30 15:03:59 VascularSeg INFO   Val batches: 50
+2025-12-30 15:03:59 VascularSeg INFO 
+2025-12-30 15:03:59 VascularSeg INFO 4. model initialization
+2025-12-30 15:03:59 VascularSeg INFO Model parameters:
+2025-12-30 15:03:59 VascularSeg INFO   Total: 28,644,083
+2025-12-30 15:03:59 VascularSeg INFO   Trainable: 28,644,083
+2025-12-30 15:03:59 VascularSeg INFO   Size: ~109.3 MB (FP32)
+2025-12-30 15:03:59 VascularSeg INFO 
+2025-12-30 15:03:59 VascularSeg INFO 5. loss function and metrics
+2025-12-30 15:03:59 VascularSeg INFO Computing class weights from training data...
+2025-12-30 15:08:02 VascularSeg INFO   Positive voxels: 78,936,341
+2025-12-30 15:08:02 VascularSeg INFO   Negative voxels: 47,202,404,075
+2025-12-30 15:08:02 VascularSeg INFO   Ratio (neg/pos): 200.00
+2025-12-30 15:08:02 VascularSeg INFO   pos_weight = 200.00
+2025-12-30 15:08:02 VascularSeg INFO Loss function: 60% Dice + 40% BCE (sigmoid)
+2025-12-30 15:08:02 VascularSeg INFO Metrics: Dice Score, Hausdorff Distance (95th percentile)
+2025-12-30 15:08:02 VascularSeg INFO 
+2025-12-30 15:08:02 VascularSeg INFO 6. optimizer and scheduler
+2025-12-30 15:08:03 VascularSeg INFO   Optimizer: AdamW
+2025-12-30 15:08:03 VascularSeg INFO   Initial LR: 2.00e-04
+2025-12-30 15:08:03 VascularSeg INFO   Scheduler: CosineAnnealingWarmRestarts (T0=2800, Tmult=2, eta_min=1e-06)
+2025-12-30 15:08:03 VascularSeg INFO   Steps per epoch: 350
+2025-12-30 15:08:03 VascularSeg INFO 
+2025-12-30 15:08:03 VascularSeg INFO 7. training loop
+2025-12-30 15:08:03 VascularSeg INFO No checkpoint resume requested; starting from scratch.

@@ -1,0 +1,1682 @@
+{
+  "pat0_orig_seg.nii.gz": {
+    "filename": "pat0_orig_seg.nii.gz",
+    "center": [
+      193.5,
+      150.0,
+      71.0
+    ],
+    "bbox_shape": [
+      106,
+      177,
+      135
+    ],
+    "bbox_coords": {
+      "z": [
+        141,
+        246
+      ],
+      "y": [
+        62,
+        238
+      ],
+      "x": [
+        4,
+        138
+      ]
+    },
+    "foreground_count": 635209
+  },
+  "pat10_orig_seg.nii.gz": {
+    "filename": "pat10_orig_seg.nii.gz",
+    "center": [
+      215.5,
+      229.0,
+      94.0
+    ],
+    "bbox_shape": [
+      152,
+      217,
+      177
+    ],
+    "bbox_coords": {
+      "z": [
+        140,
+        291
+      ],
+      "y": [
+        121,
+        337
+      ],
+      "x": [
+        6,
+        182
+      ]
+    },
+    "foreground_count": 1743432
+  },
+  "pat11_orig_seg.nii.gz": {
+    "filename": "pat11_orig_seg.nii.gz",
+    "center": [
+      218.5,
+      259.5,
+      50.0
+    ],
+    "bbox_shape": [
+      168,
+      258,
+      95
+    ],
+    "bbox_coords": {
+      "z": [
+        135,
+        302
+      ],
+      "y": [
+        131,
+        388
+      ],
+      "x": [
+        3,
+        97
+      ]
+    },
+    "foreground_count": 1206891
+  },
+  "pat12_orig_seg.nii.gz": {
+    "filename": "pat12_orig_seg.nii.gz",
+    "center": [
+      171.0,
+      198.5,
+      98.0
+    ],
+    "bbox_shape": [
+      117,
+      216,
+      165
+    ],
+    "bbox_coords": {
+      "z": [
+        113,
+        229
+      ],
+      "y": [
+        91,
+        306
+      ],
+      "x": [
+        16,
+        180
+      ]
+    },
+    "foreground_count": 966395
+  },
+  "pat13_orig_seg.nii.gz": {
+    "filename": "pat13_orig_seg.nii.gz",
+    "center": [
+      264.0,
+      317.5,
+      92.5
+    ],
+    "bbox_shape": [
+      153,
+      258,
+      154
+    ],
+    "bbox_coords": {
+      "z": [
+        188,
+        340
+      ],
+      "y": [
+        189,
+        446
+      ],
+      "x": [
+        16,
+        169
+      ]
+    },
+    "foreground_count": 1398128
+  },
+  "pat14_orig_seg.nii.gz": {
+    "filename": "pat14_orig_seg.nii.gz",
+    "center": [
+      182.5,
+      211.0,
+      86.5
+    ],
+    "bbox_shape": [
+      124,
+      197,
+      154
+    ],
+    "bbox_coords": {
+      "z": [
+        121,
+        244
+      ],
+      "y": [
+        113,
+        309
+      ],
+      "x": [
+        10,
+        163
+      ]
+    },
+    "foreground_count": 1004877
+  },
+  "pat15_orig_seg.nii.gz": {
+    "filename": "pat15_orig_seg.nii.gz",
+    "center": [
+      302.0,
+      242.0,
+      102.5
+    ],
+    "bbox_shape": [
+      205,
+      209,
+      176
+    ],
+    "bbox_coords": {
+      "z": [
+        200,
+        404
+      ],
+      "y": [
+        138,
+        346
+      ],
+      "x": [
+        15,
+        190
+      ]
+    },
+    "foreground_count": 1994030
+  },
+  "pat16_orig_seg.nii.gz": {
+    "filename": "pat16_orig_seg.nii.gz",
+    "center": [
+      171.0,
+      163.0,
+      106.0
+    ],
+    "bbox_shape": [
+      123,
+      165,
+      147
+    ],
+    "bbox_coords": {
+      "z": [
+        110,
+        232
+      ],
+      "y": [
+        81,
+        245
+      ],
+      "x": [
+        33,
+        179
+      ]
+    },
+    "foreground_count": 746331
+  },
+  "pat17_orig_seg.nii.gz": {
+    "filename": "pat17_orig_seg.nii.gz",
+    "center": [
+      201.5,
+      249.0,
+      115.0
+    ],
+    "bbox_shape": [
+      152,
+      243,
+      191
+    ],
+    "bbox_coords": {
+      "z": [
+        126,
+        277
+      ],
+      "y": [
+        128,
+        370
+      ],
+      "x": [
+        20,
+        210
+      ]
+    },
+    "foreground_count": 1714451
+  },
+  "pat18_orig_seg.nii.gz": {
+    "filename": "pat18_orig_seg.nii.gz",
+    "center": [
+      220.0,
+      267.5,
+      87.0
+    ],
+    "bbox_shape": [
+      165,
+      244,
+      163
+    ],
+    "bbox_coords": {
+      "z": [
+        138,
+        302
+      ],
+      "y": [
+        146,
+        389
+      ],
+      "x": [
+        6,
+        168
+      ]
+    },
+    "foreground_count": 1780515
+  },
+  "pat19_orig_seg.nii.gz": {
+    "filename": "pat19_orig_seg.nii.gz",
+    "center": [
+      230.5,
+      199.0,
+      106.0
+    ],
+    "bbox_shape": [
+      142,
+      177,
+      187
+    ],
+    "bbox_coords": {
+      "z": [
+        160,
+        301
+      ],
+      "y": [
+        111,
+        287
+      ],
+      "x": [
+        13,
+        199
+      ]
+    },
+    "foreground_count": 1118592
+  },
+  "pat1_orig_seg.nii.gz": {
+    "filename": "pat1_orig_seg.nii.gz",
+    "center": [
+      183.0,
+      178.5,
+      76.0
+    ],
+    "bbox_shape": [
+      109,
+      166,
+      135
+    ],
+    "bbox_coords": {
+      "z": [
+        129,
+        237
+      ],
+      "y": [
+        96,
+        261
+      ],
+      "x": [
+        9,
+        143
+      ]
+    },
+    "foreground_count": 600649
+  },
+  "pat20_orig_seg.nii.gz": {
+    "filename": "pat20_orig_seg.nii.gz",
+    "center": [
+      348.0,
+      139.5,
+      73.5
+    ],
+    "bbox_shape": [
+      117,
+      142,
+      116
+    ],
+    "bbox_coords": {
+      "z": [
+        290,
+        406
+      ],
+      "y": [
+        69,
+        210
+      ],
+      "x": [
+        16,
+        131
+      ]
+    },
+    "foreground_count": 569526
+  },
+  "pat21_orig_seg.nii.gz": {
+    "filename": "pat21_orig_seg.nii.gz",
+    "center": [
+      172.0,
+      161.0,
+      83.5
+    ],
+    "bbox_shape": [
+      137,
+      195,
+      168
+    ],
+    "bbox_coords": {
+      "z": [
+        104,
+        240
+      ],
+      "y": [
+        64,
+        258
+      ],
+      "x": [
+        0,
+        167
+      ]
+    },
+    "foreground_count": 1019358
+  },
+  "pat22_orig_seg.nii.gz": {
+    "filename": "pat22_orig_seg.nii.gz",
+    "center": [
+      194.0,
+      164.5,
+      74.5
+    ],
+    "bbox_shape": [
+      125,
+      148,
+      130
+    ],
+    "bbox_coords": {
+      "z": [
+        132,
+        256
+      ],
+      "y": [
+        91,
+        238
+      ],
+      "x": [
+        10,
+        139
+      ]
+    },
+    "foreground_count": 556917
+  },
+  "pat23_orig_seg.nii.gz": {
+    "filename": "pat23_orig_seg.nii.gz",
+    "center": [
+      187.5,
+      232.5,
+      111.5
+    ],
+    "bbox_shape": [
+      172,
+      218,
+      214
+    ],
+    "bbox_coords": {
+      "z": [
+        102,
+        273
+      ],
+      "y": [
+        124,
+        341
+      ],
+      "x": [
+        5,
+        218
+      ]
+    },
+    "foreground_count": 2240121
+  },
+  "pat24_orig_seg.nii.gz": {
+    "filename": "pat24_orig_seg.nii.gz",
+    "center": [
+      169.5,
+      120.5,
+      77.5
+    ],
+    "bbox_shape": [
+      104,
+      124,
+      124
+    ],
+    "bbox_coords": {
+      "z": [
+        118,
+        221
+      ],
+      "y": [
+        59,
+        182
+      ],
+      "x": [
+        16,
+        139
+      ]
+    },
+    "foreground_count": 407224
+  },
+  "pat25_orig_seg.nii.gz": {
+    "filename": "pat25_orig_seg.nii.gz",
+    "center": [
+      255.0,
+      102.5,
+      103.0
+    ],
+    "bbox_shape": [
+      75,
+      102,
+      183
+    ],
+    "bbox_coords": {
+      "z": [
+        218,
+        292
+      ],
+      "y": [
+        52,
+        153
+      ],
+      "x": [
+        12,
+        194
+      ]
+    },
+    "foreground_count": 320802
+  },
+  "pat26_orig_seg.nii.gz": {
+    "filename": "pat26_orig_seg.nii.gz",
+    "center": [
+      306.5,
+      319.0,
+      38.0
+    ],
+    "bbox_shape": [
+      128,
+      287,
+      77
+    ],
+    "bbox_coords": {
+      "z": [
+        243,
+        370
+      ],
+      "y": [
+        176,
+        462
+      ],
+      "x": [
+        0,
+        76
+      ]
+    },
+    "foreground_count": 724926
+  },
+  "pat27_orig_seg.nii.gz": {
+    "filename": "pat27_orig_seg.nii.gz",
+    "center": [
+      304.0,
+      201.0,
+      74.5
+    ],
+    "bbox_shape": [
+      217,
+      205,
+      136
+    ],
+    "bbox_coords": {
+      "z": [
+        196,
+        412
+      ],
+      "y": [
+        99,
+        303
+      ],
+      "x": [
+        7,
+        142
+      ]
+    },
+    "foreground_count": 1447547
+  },
+  "pat28_orig_seg.nii.gz": {
+    "filename": "pat28_orig_seg.nii.gz",
+    "center": [
+      152.5,
+      161.0,
+      72.0
+    ],
+    "bbox_shape": [
+      106,
+      159,
+      127
+    ],
+    "bbox_coords": {
+      "z": [
+        100,
+        205
+      ],
+      "y": [
+        82,
+        240
+      ],
+      "x": [
+        9,
+        135
+      ]
+    },
+    "foreground_count": 435221
+  },
+  "pat29_orig_seg.nii.gz": {
+    "filename": "pat29_orig_seg.nii.gz",
+    "center": [
+      182.5,
+      210.5,
+      78.5
+    ],
+    "bbox_shape": [
+      144,
+      192,
+      158
+    ],
+    "bbox_coords": {
+      "z": [
+        111,
+        254
+      ],
+      "y": [
+        115,
+        306
+      ],
+      "x": [
+        0,
+        157
+      ]
+    },
+    "foreground_count": 1221485
+  },
+  "pat2_orig_seg.nii.gz": {
+    "filename": "pat2_orig_seg.nii.gz",
+    "center": [
+      205.5,
+      194.5,
+      91.0
+    ],
+    "bbox_shape": [
+      102,
+      194,
+      165
+    ],
+    "bbox_coords": {
+      "z": [
+        155,
+        256
+      ],
+      "y": [
+        98,
+        291
+      ],
+      "x": [
+        9,
+        173
+      ]
+    },
+    "foreground_count": 805222
+  },
+  "pat30_orig_seg.nii.gz": {
+    "filename": "pat30_orig_seg.nii.gz",
+    "center": [
+      264.0,
+      55.5,
+      251.5
+    ],
+    "bbox_shape": [
+      121,
+      110,
+      166
+    ],
+    "bbox_coords": {
+      "z": [
+        204,
+        324
+      ],
+      "y": [
+        1,
+        110
+      ],
+      "x": [
+        169,
+        334
+      ]
+    },
+    "foreground_count": 448705
+  },
+  "pat31_orig_seg.nii.gz": {
+    "filename": "pat31_orig_seg.nii.gz",
+    "center": [
+      239.0,
+      212.0,
+      87.5
+    ],
+    "bbox_shape": [
+      129,
+      159,
+      146
+    ],
+    "bbox_coords": {
+      "z": [
+        175,
+        303
+      ],
+      "y": [
+        133,
+        291
+      ],
+      "x": [
+        15,
+        160
+      ]
+    },
+    "foreground_count": 629714
+  },
+  "pat32_orig_seg.nii.gz": {
+    "filename": "pat32_orig_seg.nii.gz",
+    "center": [
+      298.0,
+      241.5,
+      78.5
+    ],
+    "bbox_shape": [
+      155,
+      194,
+      158
+    ],
+    "bbox_coords": {
+      "z": [
+        221,
+        375
+      ],
+      "y": [
+        145,
+        338
+      ],
+      "x": [
+        0,
+        157
+      ]
+    },
+    "foreground_count": 1054794
+  },
+  "pat33_orig_seg.nii.gz": {
+    "filename": "pat33_orig_seg.nii.gz",
+    "center": [
+      270.5,
+      146.5,
+      78.0
+    ],
+    "bbox_shape": [
+      114,
+      146,
+      129
+    ],
+    "bbox_coords": {
+      "z": [
+        214,
+        327
+      ],
+      "y": [
+        74,
+        219
+      ],
+      "x": [
+        14,
+        142
+      ]
+    },
+    "foreground_count": 480452
+  },
+  "pat34_orig_seg.nii.gz": {
+    "filename": "pat34_orig_seg.nii.gz",
+    "center": [
+      350.0,
+      215.0,
+      82.0
+    ],
+    "bbox_shape": [
+      125,
+      199,
+      147
+    ],
+    "bbox_coords": {
+      "z": [
+        288,
+        412
+      ],
+      "y": [
+        116,
+        314
+      ],
+      "x": [
+        9,
+        155
+      ]
+    },
+    "foreground_count": 795993
+  },
+  "pat35_orig_seg.nii.gz": {
+    "filename": "pat35_orig_seg.nii.gz",
+    "center": [
+      241.0,
+      151.0,
+      78.0
+    ],
+    "bbox_shape": [
+      105,
+      157,
+      117
+    ],
+    "bbox_coords": {
+      "z": [
+        189,
+        293
+      ],
+      "y": [
+        73,
+        229
+      ],
+      "x": [
+        20,
+        136
+      ]
+    },
+    "foreground_count": 412553
+  },
+  "pat36_orig_seg.nii.gz": {
+    "filename": "pat36_orig_seg.nii.gz",
+    "center": [
+      240.0,
+      153.5,
+      96.0
+    ],
+    "bbox_shape": [
+      125,
+      150,
+      165
+    ],
+    "bbox_coords": {
+      "z": [
+        178,
+        302
+      ],
+      "y": [
+        79,
+        228
+      ],
+      "x": [
+        14,
+        178
+      ]
+    },
+    "foreground_count": 475075
+  },
+  "pat37_orig_seg.nii.gz": {
+    "filename": "pat37_orig_seg.nii.gz",
+    "center": [
+      266.5,
+      149.0,
+      83.0
+    ],
+    "bbox_shape": [
+      132,
+      153,
+      131
+    ],
+    "bbox_coords": {
+      "z": [
+        201,
+        332
+      ],
+      "y": [
+        73,
+        225
+      ],
+      "x": [
+        18,
+        148
+      ]
+    },
+    "foreground_count": 594275
+  },
+  "pat38_orig_seg.nii.gz": {
+    "filename": "pat38_orig_seg.nii.gz",
+    "center": [
+      242.5,
+      127.0,
+      64.5
+    ],
+    "bbox_shape": [
+      106,
+      133,
+      110
+    ],
+    "bbox_coords": {
+      "z": [
+        190,
+        295
+      ],
+      "y": [
+        61,
+        193
+      ],
+      "x": [
+        10,
+        119
+      ]
+    },
+    "foreground_count": 360790
+  },
+  "pat39_orig_seg.nii.gz": {
+    "filename": "pat39_orig_seg.nii.gz",
+    "center": [
+      235.5,
+      147.5,
+      96.0
+    ],
+    "bbox_shape": [
+      140,
+      148,
+      127
+    ],
+    "bbox_coords": {
+      "z": [
+        166,
+        305
+      ],
+      "y": [
+        74,
+        221
+      ],
+      "x": [
+        33,
+        159
+      ]
+    },
+    "foreground_count": 726147
+  },
+  "pat3_orig_seg.nii.gz": {
+    "filename": "pat3_orig_seg.nii.gz",
+    "center": [
+      195.5,
+      100.0,
+      78.0
+    ],
+    "bbox_shape": [
+      122,
+      137,
+      139
+    ],
+    "bbox_coords": {
+      "z": [
+        135,
+        256
+      ],
+      "y": [
+        32,
+        168
+      ],
+      "x": [
+        9,
+        147
+      ]
+    },
+    "foreground_count": 537965
+  },
+  "pat40_orig_seg.nii.gz": {
+    "filename": "pat40_orig_seg.nii.gz",
+    "center": [
+      248.5,
+      110.5,
+      61.0
+    ],
+    "bbox_shape": [
+      102,
+      110,
+      89
+    ],
+    "bbox_coords": {
+      "z": [
+        198,
+        299
+      ],
+      "y": [
+        56,
+        165
+      ],
+      "x": [
+        17,
+        105
+      ]
+    },
+    "foreground_count": 268665
+  },
+  "pat41_orig_seg.nii.gz": {
+    "filename": "pat41_orig_seg.nii.gz",
+    "center": [
+      244.0,
+      128.0,
+      76.0
+    ],
+    "bbox_shape": [
+      97,
+      135,
+      131
+    ],
+    "bbox_coords": {
+      "z": [
+        196,
+        292
+      ],
+      "y": [
+        61,
+        195
+      ],
+      "x": [
+        11,
+        141
+      ]
+    },
+    "foreground_count": 428452
+  },
+  "pat42_orig_seg.nii.gz": {
+    "filename": "pat42_orig_seg.nii.gz",
+    "center": [
+      250.5,
+      129.5,
+      74.0
+    ],
+    "bbox_shape": [
+      106,
+      136,
+      137
+    ],
+    "bbox_coords": {
+      "z": [
+        198,
+        303
+      ],
+      "y": [
+        62,
+        197
+      ],
+      "x": [
+        6,
+        142
+      ]
+    },
+    "foreground_count": 406508
+  },
+  "pat43_orig_seg.nii.gz": {
+    "filename": "pat43_orig_seg.nii.gz",
+    "center": [
+      254.0,
+      115.5,
+      61.0
+    ],
+    "bbox_shape": [
+      75,
+      132,
+      121
+    ],
+    "bbox_coords": {
+      "z": [
+        217,
+        291
+      ],
+      "y": [
+        50,
+        181
+      ],
+      "x": [
+        1,
+        121
+      ]
+    },
+    "foreground_count": 306444
+  },
+  "pat44_orig_seg.nii.gz": {
+    "filename": "pat44_orig_seg.nii.gz",
+    "center": [
+      177.5,
+      100.0,
+      76.0
+    ],
+    "bbox_shape": [
+      100,
+      117,
+      123
+    ],
+    "bbox_coords": {
+      "z": [
+        128,
+        227
+      ],
+      "y": [
+        42,
+        158
+      ],
+      "x": [
+        15,
+        137
+      ]
+    },
+    "foreground_count": 273824
+  },
+  "pat45_orig_seg.nii.gz": {
+    "filename": "pat45_orig_seg.nii.gz",
+    "center": [
+      215.5,
+      138.5,
+      78.5
+    ],
+    "bbox_shape": [
+      96,
+      134,
+      144
+    ],
+    "bbox_coords": {
+      "z": [
+        168,
+        263
+      ],
+      "y": [
+        72,
+        205
+      ],
+      "x": [
+        7,
+        150
+      ]
+    },
+    "foreground_count": 393848
+  },
+  "pat46_orig_seg.nii.gz": {
+    "filename": "pat46_orig_seg.nii.gz",
+    "center": [
+      261.5,
+      129.0,
+      62.0
+    ],
+    "bbox_shape": [
+      124,
+      155,
+      115
+    ],
+    "bbox_coords": {
+      "z": [
+        200,
+        323
+      ],
+      "y": [
+        52,
+        206
+      ],
+      "x": [
+        5,
+        119
+      ]
+    },
+    "foreground_count": 506869
+  },
+  "pat47_orig_seg.nii.gz": {
+    "filename": "pat47_orig_seg.nii.gz",
+    "center": [
+      302.5,
+      197.5,
+      106.5
+    ],
+    "bbox_shape": [
+      162,
+      196,
+      164
+    ],
+    "bbox_coords": {
+      "z": [
+        222,
+        383
+      ],
+      "y": [
+        100,
+        295
+      ],
+      "x": [
+        25,
+        188
+      ]
+    },
+    "foreground_count": 1255291
+  },
+  "pat48_orig_seg.nii.gz": {
+    "filename": "pat48_orig_seg.nii.gz",
+    "center": [
+      232.5,
+      117.5,
+      73.0
+    ],
+    "bbox_shape": [
+      108,
+      114,
+      121
+    ],
+    "bbox_coords": {
+      "z": [
+        179,
+        286
+      ],
+      "y": [
+        61,
+        174
+      ],
+      "x": [
+        13,
+        133
+      ]
+    },
+    "foreground_count": 395943
+  },
+  "pat49_orig_seg.nii.gz": {
+    "filename": "pat49_orig_seg.nii.gz",
+    "center": [
+      294.0,
+      126.0,
+      82.0
+    ],
+    "bbox_shape": [
+      107,
+      141,
+      113
+    ],
+    "bbox_coords": {
+      "z": [
+        241,
+        347
+      ],
+      "y": [
+        56,
+        196
+      ],
+      "x": [
+        26,
+        138
+      ]
+    },
+    "foreground_count": 373522
+  },
+  "pat4_orig_seg.nii.gz": {
+    "filename": "pat4_orig_seg.nii.gz",
+    "center": [
+      124.0,
+      55.0,
+      64.0
+    ],
+    "bbox_shape": [
+      71,
+      85,
+      103
+    ],
+    "bbox_coords": {
+      "z": [
+        89,
+        159
+      ],
+      "y": [
+        13,
+        97
+      ],
+      "x": [
+        13,
+        115
+      ]
+    },
+    "foreground_count": 147447
+  },
+  "pat50_orig_seg.nii.gz": {
+    "filename": "pat50_orig_seg.nii.gz",
+    "center": [
+      201.0,
+      154.0,
+      45.0
+    ],
+    "bbox_shape": [
+      153,
+      171,
+      79
+    ],
+    "bbox_coords": {
+      "z": [
+        125,
+        277
+      ],
+      "y": [
+        69,
+        239
+      ],
+      "x": [
+        6,
+        84
+      ]
+    },
+    "foreground_count": 574022
+  },
+  "pat51_orig_seg.nii.gz": {
+    "filename": "pat51_orig_seg.nii.gz",
+    "center": [
+      193.0,
+      185.5,
+      48.5
+    ],
+    "bbox_shape": [
+      139,
+      228,
+      86
+    ],
+    "bbox_coords": {
+      "z": [
+        124,
+        262
+      ],
+      "y": [
+        72,
+        299
+      ],
+      "x": [
+        6,
+        91
+      ]
+    },
+    "foreground_count": 734125
+  },
+  "pat52_orig_seg.nii.gz": {
+    "filename": "pat52_orig_seg.nii.gz",
+    "center": [
+      308.0,
+      237.0,
+      78.0
+    ],
+    "bbox_shape": [
+      161,
+      181,
+      157
+    ],
+    "bbox_coords": {
+      "z": [
+        228,
+        388
+      ],
+      "y": [
+        147,
+        327
+      ],
+      "x": [
+        0,
+        156
+      ]
+    },
+    "foreground_count": 802007
+  },
+  "pat53_orig_seg.nii.gz": {
+    "filename": "pat53_orig_seg.nii.gz",
+    "center": [
+      244.0,
+      147.5,
+      79.5
+    ],
+    "bbox_shape": [
+      107,
+      146,
+      148
+    ],
+    "bbox_coords": {
+      "z": [
+        191,
+        297
+      ],
+      "y": [
+        75,
+        220
+      ],
+      "x": [
+        6,
+        153
+      ]
+    },
+    "foreground_count": 569130
+  },
+  "pat54_orig_seg.nii.gz": {
+    "filename": "pat54_orig_seg.nii.gz",
+    "center": [
+      173.5,
+      148.5,
+      63.5
+    ],
+    "bbox_shape": [
+      124,
+      140,
+      128
+    ],
+    "bbox_coords": {
+      "z": [
+        112,
+        235
+      ],
+      "y": [
+        79,
+        218
+      ],
+      "x": [
+        0,
+        127
+      ]
+    },
+    "foreground_count": 451573
+  },
+  "pat55_orig_seg.nii.gz": {
+    "filename": "pat55_orig_seg.nii.gz",
+    "center": [
+      169.0,
+      87.5,
+      56.5
+    ],
+    "bbox_shape": [
+      71,
+      102,
+      114
+    ],
+    "bbox_coords": {
+      "z": [
+        134,
+        204
+      ],
+      "y": [
+        37,
+        138
+      ],
+      "x": [
+        0,
+        113
+      ]
+    },
+    "foreground_count": 221554
+  },
+  "pat56_orig_seg.nii.gz": {
+    "filename": "pat56_orig_seg.nii.gz",
+    "center": [
+      236.0,
+      184.5,
+      80.5
+    ],
+    "bbox_shape": [
+      125,
+      168,
+      158
+    ],
+    "bbox_coords": {
+      "z": [
+        174,
+        298
+      ],
+      "y": [
+        101,
+        268
+      ],
+      "x": [
+        2,
+        159
+      ]
+    },
+    "foreground_count": 698037
+  },
+  "pat57_orig_seg.nii.gz": {
+    "filename": "pat57_orig_seg.nii.gz",
+    "center": [
+      258.0,
+      142.0,
+      72.5
+    ],
+    "bbox_shape": [
+      119,
+      147,
+      110
+    ],
+    "bbox_coords": {
+      "z": [
+        199,
+        317
+      ],
+      "y": [
+        69,
+        215
+      ],
+      "x": [
+        18,
+        127
+      ]
+    },
+    "foreground_count": 515371
+  },
+  "pat58_orig_seg.nii.gz": {
+    "filename": "pat58_orig_seg.nii.gz",
+    "center": [
+      246.5,
+      94.0,
+      58.0
+    ],
+    "bbox_shape": [
+      70,
+      83,
+      105
+    ],
+    "bbox_coords": {
+      "z": [
+        212,
+        281
+      ],
+      "y": [
+        53,
+        135
+      ],
+      "x": [
+        6,
+        110
+      ]
+    },
+    "foreground_count": 138162
+  },
+  "pat59_orig_seg.nii.gz": {
+    "filename": "pat59_orig_seg.nii.gz",
+    "center": [
+      190.5,
+      138.0,
+      87.5
+    ],
+    "bbox_shape": [
+      132,
+      169,
+      176
+    ],
+    "bbox_coords": {
+      "z": [
+        125,
+        256
+      ],
+      "y": [
+        54,
+        222
+      ],
+      "x": [
+        0,
+        175
+      ]
+    },
+    "foreground_count": 973726
+  },
+  "pat5_orig_seg.nii.gz": {
+    "filename": "pat5_orig_seg.nii.gz",
+    "center": [
+      120.0,
+      80.5,
+      89.5
+    ],
+    "bbox_shape": [
+      77,
+      94,
+      146
+    ],
+    "bbox_coords": {
+      "z": [
+        82,
+        158
+      ],
+      "y": [
+        34,
+        127
+      ],
+      "x": [
+        17,
+        162
+      ]
+    },
+    "foreground_count": 237507
+  },
+  "pat6_orig_seg.nii.gz": {
+    "filename": "pat6_orig_seg.nii.gz",
+    "center": [
+      252.5,
+      146.5,
+      72.0
+    ],
+    "bbox_shape": [
+      108,
+      150,
+      133
+    ],
+    "bbox_coords": {
+      "z": [
+        199,
+        306
+      ],
+      "y": [
+        72,
+        221
+      ],
+      "x": [
+        6,
+        138
+      ]
+    },
+    "foreground_count": 491304
+  },
+  "pat7_orig_seg.nii.gz": {
+    "filename": "pat7_orig_seg.nii.gz",
+    "center": [
+      248.5,
+      205.0,
+      98.5
+    ],
+    "bbox_shape": [
+      140,
+      211,
+      166
+    ],
+    "bbox_coords": {
+      "z": [
+        179,
+        318
+      ],
+      "y": [
+        100,
+        310
+      ],
+      "x": [
+        16,
+        181
+      ]
+    },
+    "foreground_count": 1096732
+  },
+  "pat8_orig_seg.nii.gz": {
+    "filename": "pat8_orig_seg.nii.gz",
+    "center": [
+      180.5,
+      170.5,
+      73.5
+    ],
+    "bbox_shape": [
+      110,
+      166,
+      112
+    ],
+    "bbox_coords": {
+      "z": [
+        126,
+        235
+      ],
+      "y": [
+        88,
+        253
+      ],
+      "x": [
+        18,
+        129
+      ]
+    },
+    "foreground_count": 488375
+  },
+  "pat9_orig_seg.nii.gz": {
+    "filename": "pat9_orig_seg.nii.gz",
+    "center": [
+      171.5,
+      176.5,
+      92.5
+    ],
+    "bbox_shape": [
+      126,
+      182,
+      138
+    ],
+    "bbox_coords": {
+      "z": [
+        109,
+        234
+      ],
+      "y": [
+        86,
+        267
+      ],
+      "x": [
+        24,
+        161
+      ]
+    },
+    "foreground_count": 822619
+  }
+}
