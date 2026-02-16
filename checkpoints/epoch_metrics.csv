@@ -1,4 +1,4 @@
-Epock,Training Loss,Validation Loss,Training Dice,val_dice_0_5,val_dice_0_1,Validation Soft Dice,prob_mean,lr
+Epoch,Training Loss,Validation Loss,Training Dice,Validation Dice Threshold @ 0.5,Validation Dice Threshold @ 0.1,Validation Soft Dice,Probabilistic Mean,Learning Rate
 1,0.5923,0.5507,0.0172,0.2500,0.0034,0.0156,0.1671,9.50e-05
 2,0.5076,0.5010,0.0591,0.2875,0.1456,0.0455,0.0603,9.02e-05
 3,0.4096,0.3857,0.2069,0.6073,0.5465,0.2382,0.0086,8.57e-05
